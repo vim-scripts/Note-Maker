@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2382
+
+This syntax file will allow text regions to be coloured differently in case of section/subsection headings, italicize text or make it bold, highlight text regions, and more depending on the structure. For those who make notes in vim, refering to them later will become faster and more efficient.
+
+Screenshots:
+The plain file:
+http://www.cse.iitb.ac.in/~samhita/vim/noteMakerDemoPlain.html
+With the syntax file:
+http://www.cse.iitb.ac.in/~samhita/vim/noteMakerDemo.html
